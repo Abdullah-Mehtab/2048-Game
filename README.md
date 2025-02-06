@@ -1,6 +1,4 @@
-# Assignments-comp295-fccu
----------------------------
-2048 Game in C++ (Complete)
+# 2048 Game in C++ (Complete)
 ---------------------------
 This is a simple implementation of the popular 2048 game, coded in C++. The game is played on a 4x4 grid where the player needs to combine the numbered tiles (starting from 2) to create a tile with the value of 2048.
 
